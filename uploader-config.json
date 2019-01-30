@@ -1,12 +1,14 @@
+
+
 {
   "vibration":
-  {      "local_path": "/Users/jamesshieh/Downloads/DATA1",
+  {      "local_path": "C:\\Users\\autolab\\Downloads\\DATA1",
         "remote_path": "vibration/"}
   ,"current":
-  {      "local_path": "/Users/jamesshieh/Downloads/DATA2",
+  {      "local_path": "C:\\Users\\autolab\\Downloads\\DATA2",
         "remote_path": "current/"}
   ,"temperature":
-  {      "local_path": "/Users/jamesshieh/Downloads/DATA3",
+  {      "local_path": "C:\\Users\\autolab\\Downloads\\DATA3",
         "remote_path": "temperature/"}
 
 }
